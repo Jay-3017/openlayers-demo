@@ -1,0 +1,4108 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-07T22:28:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1829354052",
+        "amenity": "school",
+        "education": "school",
+        "name": "八一中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8847225,
+          28.687557
+        ]
+      },
+      "id": "node/1829354052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832074398",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市邮政路小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.884545,
+          28.6827428
+        ]
+      },
+      "id": "node/1832074398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266615218",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西财经大学‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8307785,
+          28.7335611
+        ]
+      },
+      "id": "node/2266615218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269048197",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌大学 前湖主校区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7982603,
+          28.6606558
+        ]
+      },
+      "id": "node/2269048197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269052434",
+        "addr:city": "南昌市",
+        "addr:district": "红谷滩区",
+        "addr:province": "江西省",
+        "addr:street": "龙兴街道",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌工业工程学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.758309,
+          28.6132116
+        ]
+      },
+      "id": "node/2269052434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269267919",
+        "amenity": "school",
+        "name": "南昌工程学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0213386,
+          28.6904445
+        ]
+      },
+      "id": "node/2269267919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2279145476",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌大学北区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.932949,
+          28.6867666
+        ]
+      },
+      "id": "node/2279145476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2279145585",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌大学南区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9397312,
+          28.6799149
+        ]
+      },
+      "id": "node/2279145585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293425351",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建六中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8057958,
+          28.697058
+        ]
+      },
+      "id": "node/2293425351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293426597",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市新建第一中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8123243,
+          28.7026556
+        ]
+      },
+      "id": "node/2293426597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296680828",
+        "addr:city": "南昌",
+        "addr:housenumber": "696号",
+        "addr:postcode": "330063",
+        "addr:street": "丰和南大道",
+        "amenity": "school",
+        "name": "南昌航空大学",
+        "website": "http://www.nchu.edu.cn/",
+        "wikidata": "Q6962480",
+        "wikipedia": "zh:南昌航空大学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8224846,
+          28.6542709
+        ]
+      },
+      "id": "node/2296680828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300515775",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西省工贸高级技工学校‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7823392,
+          28.657
+        ]
+      },
+      "id": "node/2300515775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318286829",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西教育学院附属实验学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9482748,
+          28.6823902
+        ]
+      },
+      "id": "node/2318286829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322758349",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8951584,
+          28.6816786
+        ]
+      },
+      "id": "node/2322758349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356841442",
+        "amenity": "school",
+        "education": "school",
+        "name": "洪都中学",
+        "name:en": "HongDu Middle School",
+        "name:ja": "洪都中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.918845,
+          28.645755
+        ]
+      },
+      "id": "node/2356841442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356842789",
+        "amenity": "school",
+        "education": "school",
+        "name": "洪都小学",
+        "name:en": "HongDu Primary School",
+        "name:ja": "洪都小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9204809,
+          28.6432655
+        ]
+      },
+      "id": "node/2356842789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377683988",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西省商务学校‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8684603,
+          28.6994719
+        ]
+      },
+      "id": "node/2377683988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526106682",
+        "amenity": "school",
+        "name": "安义县东阳中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5986374,
+          28.8480389
+        ]
+      },
+      "id": "node/2526106682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2529214105",
+        "amenity": "school",
+        "education": "school",
+        "name": "港西小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6230148,
+          28.4208824
+        ]
+      },
+      "id": "node/2529214105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2530406309",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌县莲塘三小"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9194459,
+          28.5512646
+        ]
+      },
+      "id": "node/2530406309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2712497198",
+        "amenity": "college",
+        "education": "college",
+        "name": "东华理工大学地球科学学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8199098,
+          28.7231233
+        ]
+      },
+      "id": "node/2712497198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2713817443",
+        "amenity": "college",
+        "education": "college",
+        "name": "东华理工大学软件学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8219934,
+          28.7246668
+        ]
+      },
+      "id": "node/2713817443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940653111",
+        "amenity": "school",
+        "education": "school",
+        "name": "向塘二中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9553615,
+          28.4592071
+        ]
+      },
+      "id": "node/2940653111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940703116",
+        "amenity": "school",
+        "name": "上洛小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9762065,
+          28.3712665
+        ]
+      },
+      "id": "node/2940703116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940715081",
+        "amenity": "school",
+        "name": "源溪小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9606967,
+          28.3375378
+        ]
+      },
+      "id": "node/2940715081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3474328430",
+        "addr:city": "豫章街道",
+        "addr:housenumber": "33号",
+        "addr:postcode": "330006",
+        "addr:street": "豫章路",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市豫章小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8852703,
+          28.6929335
+        ]
+      },
+      "id": "node/3474328430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3652948997",
+        "amenity": "school",
+        "name": "广生驾校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9469286,
+          28.4281709
+        ]
+      },
+      "id": "node/3652948997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660315623",
+        "amenity": "school",
+        "education": "school",
+        "name": "昌东一中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0252613,
+          28.7183259
+        ]
+      },
+      "id": "node/3660315623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660315925",
+        "amenity": "school",
+        "education": "school",
+        "name": "昌东镇第一小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0263346,
+          28.7197146
+        ]
+      },
+      "id": "node/3660315925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661637245",
+        "amenity": "school",
+        "education": "school",
+        "name": "南矶中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3535642,
+          28.9485319
+        ]
+      },
+      "id": "node/3661637245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661637247",
+        "amenity": "school",
+        "education": "school",
+        "name": "南矶乡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3536029,
+          28.9473192
+        ]
+      },
+      "id": "node/3661637247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664028109",
+        "amenity": "school",
+        "education": "school",
+        "name": "生米中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7940844,
+          28.5731155
+        ]
+      },
+      "id": "node/3664028109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664031828",
+        "amenity": "school",
+        "education": "school",
+        "name": "生米中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7910835,
+          28.5741438
+        ]
+      },
+      "id": "node/3664031828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664041270",
+        "amenity": "school",
+        "name": "厚田中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7925907,
+          28.4664513
+        ]
+      },
+      "id": "node/3664041270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664103153",
+        "amenity": "school",
+        "education": "school",
+        "name": "义渡中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7023492,
+          28.4141669
+        ]
+      },
+      "id": "node/3664103153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664103154",
+        "amenity": "school",
+        "education": "school",
+        "name": "义渡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7024378,
+          28.4151792
+        ]
+      },
+      "id": "node/3664103154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664160463",
+        "amenity": "school",
+        "education": "school",
+        "name": "流湖中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7229214,
+          28.4735223
+        ]
+      },
+      "id": "node/3664160463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664160464",
+        "amenity": "school",
+        "education": "school",
+        "name": "流湖中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7238841,
+          28.4736246
+        ]
+      },
+      "id": "node/3664160464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666043752",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌县清华实验学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.260444,
+          28.7792218
+        ]
+      },
+      "id": "node/3666043752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666621174",
+        "amenity": "college",
+        "education": "college",
+        "name": "江西信息应用职业技术学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9023555,
+          28.5912812
+        ]
+      },
+      "id": "node/3666621174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3779138996",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市湾里管理局第一中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7169765,
+          28.7028914
+        ]
+      },
+      "id": "node/3779138996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3779138997",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市湾里管理局第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7328862,
+          28.713781
+        ]
+      },
+      "id": "node/3779138997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780423577",
+        "amenity": "school",
+        "education": "school",
+        "name": "八一乡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9439482,
+          28.5581581
+        ]
+      },
+      "id": "node/3780423577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3877599738",
+        "amenity": "school",
+        "education": "school",
+        "name": "三阳集乡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.269648,
+          28.6163322
+        ]
+      },
+      "id": "node/3877599738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973818739",
+        "amenity": "school",
+        "education": "school",
+        "name": "重韶中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0568864,
+          29.0217151
+        ]
+      },
+      "id": "node/3973818739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973868184",
+        "amenity": "school",
+        "education": "school",
+        "name": "昌邑中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.059934,
+          29.0227724
+        ]
+      },
+      "id": "node/3973868184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471312041",
+        "amenity": "school",
+        "name": "兴农小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8778346,
+          28.386438
+        ]
+      },
+      "id": "node/4471312041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518550904",
+        "amenity": "school",
+        "education": "school",
+        "name": "中石化近港希望小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1211304,
+          28.6284933
+        ]
+      },
+      "id": "node/4518550904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518590977",
+        "amenity": "school",
+        "education": "school",
+        "name": "渡口小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1017963,
+          28.6564486
+        ]
+      },
+      "id": "node/4518590977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518618038",
+        "amenity": "school",
+        "education": "school",
+        "name": "塘南镇中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1403494,
+          28.6587819
+        ]
+      },
+      "id": "node/4518618038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518618710",
+        "amenity": "school",
+        "education": "school",
+        "name": "塘南中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1279656,
+          28.6576215
+        ]
+      },
+      "id": "node/4518618710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518620708",
+        "amenity": "school",
+        "education": "school",
+        "name": "石岗小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1104642,
+          28.6412601
+        ]
+      },
+      "id": "node/4518620708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518622576",
+        "amenity": "school",
+        "education": "school",
+        "name": "近港小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1240563,
+          28.6310915
+        ]
+      },
+      "id": "node/4518622576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518623575",
+        "amenity": "school",
+        "education": "school",
+        "name": "富圣小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1428626,
+          28.6434446
+        ]
+      },
+      "id": "node/4518623575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518624794",
+        "amenity": "school",
+        "education": "school",
+        "name": "协成小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1251654,
+          28.6630795
+        ]
+      },
+      "id": "node/4518624794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518624879",
+        "amenity": "school",
+        "education": "school",
+        "name": "张坊小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1087905,
+          28.6705328
+        ]
+      },
+      "id": "node/4518624879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518625328",
+        "amenity": "school",
+        "education": "school",
+        "name": "葛溪小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1235289,
+          28.6816474
+        ]
+      },
+      "id": "node/4518625328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518626077",
+        "amenity": "school",
+        "education": "school",
+        "name": "蔡家小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1558281,
+          28.6763763
+        ]
+      },
+      "id": "node/4518626077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518635345",
+        "amenity": "school",
+        "education": "school",
+        "name": "西联小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1505321,
+          28.6938322
+        ]
+      },
+      "id": "node/4518635345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4522479196",
+        "amenity": "school",
+        "education": "school",
+        "name": "塘南二中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2510338,
+          28.7357695
+        ]
+      },
+      "id": "node/4522479196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4522479197",
+        "amenity": "school",
+        "education": "school",
+        "name": "塘南镇二小"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2468388,
+          28.7330977
+        ]
+      },
+      "id": "node/4522479197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4522479504",
+        "amenity": "school",
+        "education": "school",
+        "name": "新光希望小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2671404,
+          28.7379873
+        ]
+      },
+      "id": "node/4522479504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4522479505",
+        "amenity": "school",
+        "education": "school",
+        "name": "新联小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.258324,
+          28.7343395
+        ]
+      },
+      "id": "node/4522479505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523182813",
+        "amenity": "school",
+        "education": "school",
+        "name": "泾口中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1622828,
+          28.6534417
+        ]
+      },
+      "id": "node/4523182813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523182814",
+        "amenity": "school",
+        "education": "school",
+        "name": "泾口乡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1660218,
+          28.650596
+        ]
+      },
+      "id": "node/4523182814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524199671",
+        "amenity": "school",
+        "name": "东湖小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2456888,
+          28.6457859
+        ]
+      },
+      "id": "node/4524199671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524218737",
+        "amenity": "school",
+        "name": "东升小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2579197,
+          28.6860647
+        ]
+      },
+      "id": "node/4524218737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524246394",
+        "amenity": "school",
+        "name": "进贤县赵埠中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2644106,
+          28.5724314
+        ]
+      },
+      "id": "node/4524246394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524254834",
+        "amenity": "school",
+        "education": "school",
+        "name": "前坊中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2303591,
+          28.5229303
+        ]
+      },
+      "id": "node/4524254834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524452241",
+        "amenity": "school",
+        "education": "school",
+        "name": "盛家小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4946263,
+          28.4849172
+        ]
+      },
+      "id": "node/4524452241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524452244",
+        "amenity": "school",
+        "education": "school",
+        "name": "衙前小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4519936,
+          28.289874
+        ]
+      },
+      "id": "node/4524452244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529346558",
+        "amenity": "school",
+        "education": "school",
+        "name": "观咀小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.938325,
+          29.0291589
+        ]
+      },
+      "id": "node/4529346558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529346698",
+        "amenity": "school",
+        "education": "school",
+        "name": "观咀中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9318837,
+          29.0309852
+        ]
+      },
+      "id": "node/4529346698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529374688",
+        "amenity": "school",
+        "education": "school",
+        "name": "伍喻学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0467386,
+          28.9949706
+        ]
+      },
+      "id": "node/4529374688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529374689",
+        "amenity": "school",
+        "education": "school",
+        "name": "昌邑中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0502255,
+          28.9959981
+        ]
+      },
+      "id": "node/4529374689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529376099",
+        "amenity": "school",
+        "education": "school",
+        "name": "蛟桥小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8460182,
+          28.7670784
+        ]
+      },
+      "id": "node/4529376099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529385010",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建经开区第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7397967,
+          28.6364483
+        ]
+      },
+      "id": "node/4529385010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529386705",
+        "amenity": "school",
+        "education": "school",
+        "name": "新丰学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6562358,
+          28.5880816
+        ]
+      },
+      "id": "node/4529386705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529414529",
+        "amenity": "school",
+        "education": "school",
+        "name": "松湖中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6517567,
+          28.3779735
+        ]
+      },
+      "id": "node/4529414529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529425598",
+        "amenity": "school",
+        "name": "南昌市新建区松湖中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.669907,
+          28.3887352
+        ]
+      },
+      "id": "node/4529425598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529425604",
+        "amenity": "school",
+        "education": "school",
+        "name": "松湖镇第二小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6693545,
+          28.3889382
+        ]
+      },
+      "id": "node/4529425604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529444653",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌英杰文武学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6285232,
+          28.4414379
+        ]
+      },
+      "id": "node/4529444653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529444654",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌鸿杰少年教育学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6273002,
+          28.4419473
+        ]
+      },
+      "id": "node/4529444654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529444655",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建区石岗中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6193259,
+          28.4451241
+        ]
+      },
+      "id": "node/4529444655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529446600",
+        "amenity": "school",
+        "education": "school",
+        "name": "长征小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6231146,
+          28.4525115
+        ]
+      },
+      "id": "node/4529446600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529450041",
+        "amenity": "school",
+        "education": "school",
+        "name": "石岗中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6227413,
+          28.4417104
+        ]
+      },
+      "id": "node/4529450041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529453791",
+        "amenity": "school",
+        "education": "school",
+        "name": "厚田中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7929159,
+          28.4661778
+        ]
+      },
+      "id": "node/4529453791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529454641",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建区西山中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6218144,
+          28.5550442
+        ]
+      },
+      "id": "node/4529454641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529456413",
+        "amenity": "school",
+        "education": "school",
+        "name": "西山小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6247655,
+          28.5522965
+        ]
+      },
+      "id": "node/4529456413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529637624",
+        "amenity": "school",
+        "name": "石埠中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.681061,
+          28.5914071
+        ]
+      },
+      "id": "node/4529637624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529658405",
+        "amenity": "school",
+        "education": "school",
+        "name": "乐化中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8665116,
+          28.8260022
+        ]
+      },
+      "id": "node/4529658405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529662731",
+        "amenity": "school",
+        "name": "溪霞中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.841445,
+          28.8595563
+        ]
+      },
+      "id": "node/4529662731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529662732",
+        "amenity": "school",
+        "name": "溪霞中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8431402,
+          28.8579589
+        ]
+      },
+      "id": "node/4529662732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529669514",
+        "amenity": "school",
+        "education": "school",
+        "name": "罗亭中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7804087,
+          28.8913299
+        ]
+      },
+      "id": "node/4529669514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529669515",
+        "amenity": "school",
+        "education": "school",
+        "name": "罗亭中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.781326,
+          28.8905033
+        ]
+      },
+      "id": "node/4529669515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529683916",
+        "amenity": "school",
+        "education": "school",
+        "name": "梅岭中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7530019,
+          28.7921648
+        ]
+      },
+      "id": "node/4529683916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529701431",
+        "amenity": "school",
+        "education": "school",
+        "name": "红星中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6586659,
+          28.7261198
+        ]
+      },
+      "id": "node/4529701431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529702320",
+        "amenity": "school",
+        "education": "school",
+        "name": "湾里扶轮五湖学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6542952,
+          28.7248132
+        ]
+      },
+      "id": "node/4529702320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530057340",
+        "amenity": "school",
+        "education": "school",
+        "name": "樵舍中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9807067,
+          28.8493172
+        ]
+      },
+      "id": "node/4530057340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530058217",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建区樵舍中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9830544,
+          28.8506923
+        ]
+      },
+      "id": "node/4530058217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530067059",
+        "amenity": "school",
+        "name": "新建区樵舍镇第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9385247,
+          28.8504385
+        ]
+      },
+      "id": "node/4530067059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530067060",
+        "amenity": "school",
+        "name": "新建区樵舍镇第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.938551,
+          28.8510892
+        ]
+      },
+      "id": "node/4530067060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533670023",
+        "amenity": "school",
+        "education": "school",
+        "name": "三江小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0053817,
+          28.2926881
+        ]
+      },
+      "id": "node/4533670023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533670026",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌县三江中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0044751,
+          28.2930282
+        ]
+      },
+      "id": "node/4533670026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533714590",
+        "amenity": "school",
+        "education": "school",
+        "name": "黄马中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0082972,
+          28.3504252
+        ]
+      },
+      "id": "node/4533714590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537022513",
+        "amenity": "school",
+        "name": "南昌县广福二中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.894585,
+          28.3419672
+        ]
+      },
+      "id": "node/4537022513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537022519",
+        "amenity": "school",
+        "name": "沙巷小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8787264,
+          28.3400279
+        ]
+      },
+      "id": "node/4537022519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537022530",
+        "amenity": "school",
+        "name": "荷山人防希望小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8934745,
+          28.3423591
+        ]
+      },
+      "id": "node/4537022530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537024048",
+        "amenity": "school",
+        "name": "北头小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9130198,
+          28.3761257
+        ]
+      },
+      "id": "node/4537024048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537024049",
+        "amenity": "school",
+        "name": "灃湖村小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8984835,
+          28.3740595
+        ]
+      },
+      "id": "node/4537024049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537024565",
+        "amenity": "school",
+        "name": "南昌县广福一中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9019905,
+          28.3680119
+        ]
+      },
+      "id": "node/4537024565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537024840",
+        "amenity": "school",
+        "name": "冈上镇中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8535444,
+          28.4137599
+        ]
+      },
+      "id": "node/4537024840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537032905",
+        "amenity": "school",
+        "education": "school",
+        "name": "富山中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8531059,
+          28.514404
+        ]
+      },
+      "id": "node/4537032905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537033598",
+        "amenity": "school",
+        "name": "富山中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.884363,
+          28.5454875
+        ]
+      },
+      "id": "node/4537033598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537035568",
+        "amenity": "school",
+        "education": "school",
+        "name": "莲塘第六小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9283325,
+          28.5705987
+        ]
+      },
+      "id": "node/4537035568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537036284",
+        "amenity": "school",
+        "education": "school",
+        "name": "柏岗小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9105924,
+          28.5505696
+        ]
+      },
+      "id": "node/4537036284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537039696",
+        "amenity": "school",
+        "education": "school",
+        "name": "八一中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9448898,
+          28.5604056
+        ]
+      },
+      "id": "node/4537039696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537044414",
+        "amenity": "school",
+        "education": "school",
+        "name": "武阳镇中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0152991,
+          28.5220447
+        ]
+      },
+      "id": "node/4537044414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537047827",
+        "amenity": "school",
+        "education": "school",
+        "name": "塔城中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0930255,
+          28.5152796
+        ]
+      },
+      "id": "node/4537047827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537047828",
+        "amenity": "school",
+        "education": "school",
+        "name": "塔城中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.091569,
+          28.5043834
+        ]
+      },
+      "id": "node/4537047828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537051903",
+        "amenity": "school",
+        "education": "school",
+        "name": "幽兰中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1511409,
+          28.5804423
+        ]
+      },
+      "id": "node/4537051903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537053158",
+        "amenity": "school",
+        "education": "school",
+        "name": "幽兰中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1462663,
+          28.5861941
+        ]
+      },
+      "id": "node/4537053158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537056851",
+        "amenity": "school",
+        "education": "school",
+        "name": "南新中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0632287,
+          28.8053459
+        ]
+      },
+      "id": "node/4537056851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537056854",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌县南新中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0607833,
+          28.8061212
+        ]
+      },
+      "id": "node/4537056854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537357004",
+        "amenity": "school",
+        "education": "school",
+        "name": "群力小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5965755,
+          28.6084321
+        ]
+      },
+      "id": "node/4537357004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537375985",
+        "amenity": "school",
+        "education": "school",
+        "name": "石鼻第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.57103,
+          28.7333946
+        ]
+      },
+      "id": "node/4537375985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537377185",
+        "amenity": "school",
+        "education": "school",
+        "name": "石鼻小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5644077,
+          28.7350104
+        ]
+      },
+      "id": "node/4537377185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537406917",
+        "amenity": "school",
+        "education": "school",
+        "name": "桃岭小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.091502,
+          28.5749801
+        ]
+      },
+      "id": "node/4537406917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537608156",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市抚生路学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8538194,
+          28.6292802
+        ]
+      },
+      "id": "node/4537608156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558402432",
+        "amenity": "school",
+        "education": "school",
+        "name": "潭林小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0549408,
+          28.5410248
+        ]
+      },
+      "id": "node/4558402432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558419697",
+        "amenity": "school",
+        "education": "school",
+        "name": "黄坊小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0831291,
+          28.548946
+        ]
+      },
+      "id": "node/4558419697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558430456",
+        "amenity": "school",
+        "education": "school",
+        "name": "亭山小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0674781,
+          28.5701918
+        ]
+      },
+      "id": "node/4558430456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558438306",
+        "amenity": "school",
+        "education": "school",
+        "name": "渡头中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.098278,
+          28.5398142
+        ]
+      },
+      "id": "node/4558438306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558438307",
+        "amenity": "school",
+        "education": "school",
+        "name": "渡头中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.092825,
+          28.5477428
+        ]
+      },
+      "id": "node/4558438307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558464492",
+        "amenity": "school",
+        "education": "school",
+        "name": "联合小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1137536,
+          28.5604997
+        ]
+      },
+      "id": "node/4558464492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558585126",
+        "amenity": "school",
+        "education": "school",
+        "name": "架桥初级中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.069591,
+          28.4368387
+        ]
+      },
+      "id": "node/4558585126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558588136",
+        "amenity": "school",
+        "name": "泉岭中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0764521,
+          28.3769563
+        ]
+      },
+      "id": "node/4558588136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558588137",
+        "amenity": "school",
+        "name": "泉岭中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.072693,
+          28.3770896
+        ]
+      },
+      "id": "node/4558588137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559582927",
+        "amenity": "school",
+        "education": "school",
+        "name": "温圳二小"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0790619,
+          28.3431063
+        ]
+      },
+      "id": "node/4559582927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559593272",
+        "amenity": "school",
+        "education": "school",
+        "name": "温圳小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0809482,
+          28.3488572
+        ]
+      },
+      "id": "node/4559593272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559593275",
+        "amenity": "school",
+        "education": "school",
+        "name": "颖华中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0859777,
+          28.3563975
+        ]
+      },
+      "id": "node/4559593275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559600595",
+        "amenity": "school",
+        "education": "school",
+        "name": "温圳中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0855133,
+          28.3521077
+        ]
+      },
+      "id": "node/4559600595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559967678",
+        "amenity": "school",
+        "education": "school",
+        "name": "文港小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1099958,
+          28.2885361
+        ]
+      },
+      "id": "node/4559967678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559998391",
+        "amenity": "school",
+        "name": "前途中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1606338,
+          28.2895381
+        ]
+      },
+      "id": "node/4559998391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559998393",
+        "amenity": "school",
+        "name": "文港镇前途小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1643514,
+          28.291574
+        ]
+      },
+      "id": "node/4559998393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560019581",
+        "amenity": "school",
+        "name": "墩上小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1903454,
+          28.2354634
+        ]
+      },
+      "id": "node/4560019581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560019584",
+        "amenity": "school",
+        "name": "长山中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2235887,
+          28.2404209
+        ]
+      },
+      "id": "node/4560019584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560021090",
+        "amenity": "school",
+        "education": "school",
+        "name": "李渡中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1654035,
+          28.2221703
+        ]
+      },
+      "id": "node/4560021090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560037142",
+        "amenity": "school",
+        "name": "白圩中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2525981,
+          28.2615907
+        ]
+      },
+      "id": "node/4560037142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560037161",
+        "amenity": "school",
+        "name": "进贤县白圩中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.252582,
+          28.2626632
+        ]
+      },
+      "id": "node/4560037161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560991261",
+        "amenity": "school",
+        "education": "school",
+        "name": "新荣小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0872226,
+          28.5606282
+        ]
+      },
+      "id": "node/4560991261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561112644",
+        "amenity": "school",
+        "education": "school",
+        "name": "私立纪元中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1879448,
+          28.5810064
+        ]
+      },
+      "id": "node/4561112644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561190242",
+        "amenity": "school",
+        "name": "幽兰少城小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1805768,
+          28.5982933
+        ]
+      },
+      "id": "node/4561190242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561240928",
+        "amenity": "school",
+        "education": "school",
+        "name": "育林小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1374885,
+          28.6247799
+        ]
+      },
+      "id": "node/4561240928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561246267",
+        "amenity": "school",
+        "education": "school",
+        "name": "流芳小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1515955,
+          28.6034788
+        ]
+      },
+      "id": "node/4561246267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562898147",
+        "amenity": "school",
+        "education": "school",
+        "name": "招贤镇堎上小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7463789,
+          28.7649098
+        ]
+      },
+      "id": "node/4562898147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562935638",
+        "amenity": "school",
+        "name": "群众小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7884848,
+          28.8107
+        ]
+      },
+      "id": "node/4562935638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562935639",
+        "amenity": "school",
+        "name": "团结小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7770184,
+          28.8028618
+        ]
+      },
+      "id": "node/4562935639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562948489",
+        "amenity": "school",
+        "education": "school",
+        "name": "狮峰学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.716125,
+          28.8124444
+        ]
+      },
+      "id": "node/4562948489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562951830",
+        "amenity": "school",
+        "name": "团山村小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6882904,
+          28.7672047
+        ]
+      },
+      "id": "node/4562951830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563023817",
+        "amenity": "school",
+        "education": "school",
+        "name": "南溪小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6910616,
+          28.8089844
+        ]
+      },
+      "id": "node/4563023817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563046696",
+        "amenity": "school",
+        "education": "school",
+        "name": "万埠镇中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6541765,
+          28.8542736
+        ]
+      },
+      "id": "node/4563046696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563046698",
+        "amenity": "school",
+        "education": "school",
+        "name": "万埠中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6562566,
+          28.8525552
+        ]
+      },
+      "id": "node/4563046698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563067217",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市湾里管理局第五小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7177268,
+          28.700614
+        ]
+      },
+      "id": "node/4563067217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563442173",
+        "amenity": "school",
+        "education": "school",
+        "name": "小岭小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.596833,
+          28.4219845
+        ]
+      },
+      "id": "node/4563442173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564577435",
+        "amenity": "school",
+        "education": "school",
+        "name": "龙津小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5410052,
+          28.8465877
+        ]
+      },
+      "id": "node/4564577435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564577436",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西省安义第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5429472,
+          28.8463904
+        ]
+      },
+      "id": "node/4564577436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564589833",
+        "amenity": "school",
+        "name": "鼎湖镇板溪小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5431899,
+          28.8382835
+        ]
+      },
+      "id": "node/4564589833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564733573",
+        "amenity": "school",
+        "name": "东昌小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7653548,
+          28.8178902
+        ]
+      },
+      "id": "node/4564733573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564748922",
+        "amenity": "school",
+        "name": "红源小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7779183,
+          28.8413997
+        ]
+      },
+      "id": "node/4564748922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4583851224",
+        "amenity": "school",
+        "education": "school",
+        "name": "石鼻中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.558193,
+          28.7287448
+        ]
+      },
+      "id": "node/4583851224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585284229",
+        "amenity": "school",
+        "name": "石鼻镇华光希望小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5991304,
+          28.6968315
+        ]
+      },
+      "id": "node/4585284229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599115590",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市江安学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9954226,
+          28.6582632
+        ]
+      },
+      "id": "node/4599115590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602026768",
+        "amenity": "school",
+        "education": "school",
+        "name": "八一小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9553263,
+          28.5605682
+        ]
+      },
+      "id": "node/4602026768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603196091",
+        "amenity": "school",
+        "name": "长埠小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6280311,
+          28.7995701
+        ]
+      },
+      "id": "node/4603196091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603296917",
+        "amenity": "school",
+        "education": "school",
+        "name": "三店小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9131498,
+          28.6275733
+        ]
+      },
+      "id": "node/4603296917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4637460670",
+        "amenity": "school",
+        "education": "school",
+        "name": "观田小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9842975,
+          28.6417942
+        ]
+      },
+      "id": "node/4637460670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673862185",
+        "amenity": "school",
+        "education": "school",
+        "name": "北大小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2971496,
+          28.7413368
+        ]
+      },
+      "id": "node/4673862185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673862189",
+        "amenity": "school",
+        "education": "school",
+        "name": "梅池分校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2888562,
+          28.741271
+        ]
+      },
+      "id": "node/4673862189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673881803",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建县南矶乡矶山小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3275834,
+          28.891681
+        ]
+      },
+      "id": "node/4673881803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673909173",
+        "amenity": "school",
+        "education": "school",
+        "name": "恒湖中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0752693,
+          28.9987218
+        ]
+      },
+      "id": "node/4673909173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673909174",
+        "amenity": "school",
+        "education": "school",
+        "name": "恒湖小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0748884,
+          28.9979007
+        ]
+      },
+      "id": "node/4673909174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673938179",
+        "amenity": "school",
+        "education": "school",
+        "name": "联圩中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.055311,
+          28.9573852
+        ]
+      },
+      "id": "node/4673938179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673938187",
+        "amenity": "school",
+        "education": "school",
+        "name": "联圩中心小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0567674,
+          28.9597766
+        ]
+      },
+      "id": "node/4673938187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673939167",
+        "amenity": "school",
+        "education": "school",
+        "name": "联圩中心小学二部",
+        "old_name": "黄潭小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0592793,
+          28.9487025
+        ]
+      },
+      "id": "node/4673939167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673956948",
+        "amenity": "school",
+        "education": "school",
+        "name": "成新学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1394009,
+          28.9319911
+        ]
+      },
+      "id": "node/4673956948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673972614",
+        "amenity": "school",
+        "name": "黄渡小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9834385,
+          28.7895379
+        ]
+      },
+      "id": "node/4673972614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673976415",
+        "amenity": "school",
+        "name": "蒋巷小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0226443,
+          28.7601892
+        ]
+      },
+      "id": "node/4673976415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673976416",
+        "amenity": "school",
+        "name": "蒋巷第二中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0232881,
+          28.7615059
+        ]
+      },
+      "id": "node/4673976416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673980995",
+        "amenity": "school",
+        "name": "蒋巷中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0259059,
+          28.7624371
+        ]
+      },
+      "id": "node/4673980995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673982050",
+        "amenity": "school",
+        "name": "南溪小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0030977,
+          28.7572582
+        ]
+      },
+      "id": "node/4673982050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673982453",
+        "amenity": "school",
+        "education": "school",
+        "name": "昌东二小",
+        "old_name": "滁槎小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0925059,
+          28.7628065
+        ]
+      },
+      "id": "node/4673982453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4676056473",
+        "amenity": "school",
+        "education": "school",
+        "name": "黄马中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0201419,
+          28.3441697
+        ]
+      },
+      "id": "node/4676056473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697413895",
+        "amenity": "school",
+        "education": "school",
+        "name": "名仕双语艺术幼儿园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8743295,
+          28.6660581
+        ]
+      },
+      "id": "node/4697413895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730119898",
+        "amenity": "school",
+        "education": "school",
+        "name": "京川小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9392304,
+          28.6026464
+        ]
+      },
+      "id": "node/4730119898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730136574",
+        "amenity": "school",
+        "education": "school",
+        "name": "德嘉小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9565681,
+          28.6299076
+        ]
+      },
+      "id": "node/4730136574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754101271",
+        "amenity": "school",
+        "name": "风景小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8053425,
+          28.7939183
+        ]
+      },
+      "id": "node/4754101271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833910675",
+        "amenity": "school",
+        "name": "桂花大坊小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2487626,
+          28.503516
+        ]
+      },
+      "id": "node/4833910675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836013626",
+        "amenity": "school",
+        "education": "school",
+        "name": "军山湖中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3211956,
+          28.6353234
+        ]
+      },
+      "id": "node/4836013626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916203465",
+        "amenity": "school",
+        "education": "school",
+        "name": "木埠小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.807275,
+          28.4634485
+        ]
+      },
+      "id": "node/4916203465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5062235727",
+        "addr:housenumber": "1616号",
+        "addr:street": "前湖大道",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市心远中学",
+        "name:en": "Nanchang Xin'yuan Middle School",
+        "name:ja": "南昌市心遠中学",
+        "opening_hours": "Mo-Sa 07:00-12:00, 13:30-21:50",
+        "phone": "+86 791 8793 0191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8055954,
+          28.6750916
+        ]
+      },
+      "id": "node/5062235727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5264269628",
+        "amenity": "school",
+        "education": "school",
+        "name": "进贤县李渡中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1761723,
+          28.2232211
+        ]
+      },
+      "id": "node/5264269628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578465811",
+        "amenity": "school",
+        "description": "由于城镇化发展，农村人口大量迁入城市，学生人数越来越少",
+        "education": "school",
+        "name": "创业小学",
+        "operator": "刘水保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2432496,
+          28.7209429
+        ]
+      },
+      "id": "node/5578465811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987547429",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌师范附属小学高新校区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9983638,
+          28.6977906
+        ]
+      },
+      "id": "node/5987547429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5988053868",
+        "amenity": "college",
+        "education": "college",
+        "name": "中国共产党南昌铁路局委员会党校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9091262,
+          28.664321
+        ]
+      },
+      "id": "node/5988053868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5988053871",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市铁路第一中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9061006,
+          28.6677165
+        ]
+      },
+      "id": "node/5988053871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6194306064",
+        "amenity": "college",
+        "education": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9718111,
+          28.7033769
+        ]
+      },
+      "id": "node/6194306064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338735758",
+        "amenity": "school",
+        "education": "school",
+        "name": "原南昌十一中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8932342,
+          28.6937529
+        ]
+      },
+      "id": "node/6338735758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338735759",
+        "amenity": "school",
+        "education": "school",
+        "name": "城北学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8937025,
+          28.6920393
+        ]
+      },
+      "id": "node/6338735759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338735760",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌实验中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9030254,
+          28.6887689
+        ]
+      },
+      "id": "node/6338735760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6662989264",
+        "amenity": "school",
+        "name": "桐林小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9653255,
+          28.5813091
+        ]
+      },
+      "id": "node/6662989264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6663066338",
+        "amenity": "school",
+        "education": "school",
+        "name": "南江小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9659612,
+          28.5357326
+        ]
+      },
+      "id": "node/6663066338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6663108781",
+        "amenity": "school",
+        "education": "school",
+        "name": "院前小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.980311,
+          28.5839046
+        ]
+      },
+      "id": "node/6663108781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704578186",
+        "amenity": "school",
+        "education": "school",
+        "name:en": "Nanchang High-Tech School (Dijing Garden)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9792139,
+          28.7148417
+        ]
+      },
+      "id": "node/6704578186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7506181820",
+        "addr:housenumber": "333",
+        "addr:street": "庐山中大道",
+        "amenity": "school",
+        "education": "school",
+        "name": "江西财经大学附属中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8467283,
+          28.7439392
+        ]
+      },
+      "id": "node/7506181820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603194427",
+        "amenity": "school",
+        "education": "school",
+        "name": "新建县望城新区石埠小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6898439,
+          28.6098521
+        ]
+      },
+      "id": "node/9603194427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130200814",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市第二十八中学教育集团湾里实验学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7279996,
+          28.698579
+        ]
+      },
+      "id": "node/10130200814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873997360",
+        "amenity": "university",
+        "education": "university",
+        "name": "江西财经大学现代经济管理学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7763806,
+          28.5762756
+        ]
+      },
+      "id": "node/11873997360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873997361",
+        "amenity": "college",
+        "education": "college",
+        "name": "江西青年职业学院（九龙湖教学基地）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7760945,
+          28.5773025
+        ]
+      },
+      "id": "node/11873997361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957657528",
+        "amenity": "prep_school",
+        "education": "prep_school",
+        "name": "信达英文学校（旧）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8951515,
+          28.6734088
+        ]
+      },
+      "id": "node/11957657528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12899918208",
+        "amenity": "school",
+        "education": "school",
+        "name": "”变形记青少年营地”"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8594895,
+          28.7718711
+        ]
+      },
+      "id": "node/12899918208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13037351929",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌海天高学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8936871,
+          28.7018062
+        ]
+      },
+      "id": "node/13037351929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13048717562",
+        "amenity": "school",
+        "education": "school",
+        "name": "青联学校（旧）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9083821,
+          28.6470903
+        ]
+      },
+      "id": "node/13048717562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13063221374",
+        "amenity": "college",
+        "education": "college",
+        "name": "江西省计量测试研究院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9069491,
+          28.6637489
+        ]
+      },
+      "id": "node/13063221374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13119131836",
+        "amenity": "dancing_school",
+        "education": "dancing_school",
+        "name": "我们文化艺术工作室"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8695417,
+          28.6609265
+        ]
+      },
+      "id": "node/13119131836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13148743046",
+        "amenity": "prep_school",
+        "education": "prep_school",
+        "name": "吉的堡成长中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8800553,
+          28.6719088
+        ]
+      },
+      "id": "node/13148743046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168863844",
+        "amenity": "prep_school",
+        "education": "prep_school",
+        "name": "加速度课后托管中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8802531,
+          28.6633558
+        ]
+      },
+      "id": "node/13168863844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13368729661",
+        "amenity": "language_school",
+        "brand": "新东方",
+        "brand:en": "New Oriental Education",
+        "brand:wikidata": "Q13631921",
+        "brand:zh": "新东方",
+        "name": "新东方",
+        "name:en": "New Oriental Education",
+        "name:zh": "新东方"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9207896,
+          28.6871451
+        ]
+      },
+      "id": "node/13368729661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13652194049",
+        "amenity": "school",
+        "education": "school",
+        "name": "天品美术学校艾溪湖校区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9936076,
+          28.6633805
+        ]
+      },
+      "id": "node/13652194049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13663281392",
+        "amenity": "college",
+        "education": "college",
+        "name": "东华理工大学(青岚校园)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8165032,
+          28.721581
+        ]
+      },
+      "id": "node/13663281392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13692288985",
+        "amenity": "school",
+        "education": "school",
+        "name": "飞燕外国语学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.847435,
+          28.7129323
+        ]
+      },
+      "id": "node/13692288985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872578839",
+        "amenity": "driving_school",
+        "education": "driving_school",
+        "name": "君三湖驾校报名点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.405037,
+          28.5854263
+        ]
+      },
+      "id": "node/13872578839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13947929950",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌铁航交通卫生职业学校昌南校区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2048089,
+          28.4034494
+        ]
+      },
+      "id": "node/13947929950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13989822634",
+        "amenity": "school",
+        "education": "school",
+        "name": "中国铁路南昌局集团有限公司南昌干部学校"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9091239,
+          28.6640718
+        ]
+      },
+      "id": "node/13989822634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14070378624",
+        "amenity": "school",
+        "education": "school",
+        "name": "原绳金塔小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8968418,
+          28.6676034
+        ]
+      },
+      "id": "node/14070378624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14092340003",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市第十三中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9130024,
+          28.6310187
+        ]
+      },
+      "id": "node/14092340003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14098549858",
+        "amenity": "university",
+        "education": "university",
+        "name": "江西科技师范大学（南科大校区）",
+        "website": "https://www.jxstnu.edu.cn/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8721646,
+          28.5765698
+        ]
+      },
+      "id": "node/14098549858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14105966012",
+        "amenity": "school",
+        "education": "school",
+        "name": "原南昌六中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8495329,
+          28.610185
+        ]
+      },
+      "id": "node/14105966012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14192146490",
+        "amenity": "college",
+        "education": "college",
+        "name": "湾里开放学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7321526,
+          28.7033593
+        ]
+      },
+      "id": "node/14192146490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14212095316",
+        "amenity": "college",
+        "education": "college",
+        "name": "教育学院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.021362,
+          28.680565
+        ]
+      },
+      "id": "node/14212095316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14212095317",
+        "amenity": "college",
+        "education": "college",
+        "name": "国际教育学院（新西伯利亚数智学院）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0215909,
+          28.680182
+        ]
+      },
+      "id": "node/14212095317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14247679539",
+        "amenity": "school",
+        "education": "school",
+        "name": "南昌市第十七中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9350048,
+          28.6679261
+        ]
+      },
+      "id": "node/14247679539"
+    }
+  ]
+}

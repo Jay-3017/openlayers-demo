@@ -1,0 +1,1507 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-07T22:21:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300564459",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "江西省心理康复中心‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9267743,
+          28.681458
+        ]
+      },
+      "id": "node/2300564459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322757854",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "江西省妇幼保健院‎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8976297,
+          28.6813266
+        ]
+      },
+      "id": "node/2322757854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494674505",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "青岚村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8105209,
+          28.7508232
+        ]
+      },
+      "id": "node/2494674505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519732692",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌市第九医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9235338,
+          28.67068
+        ]
+      },
+      "id": "node/2519732692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2662661183",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "青山湖区塘山街道青山湖社区卫生服务站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9302024,
+          28.6834805
+        ]
+      },
+      "id": "node/2662661183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3127684570",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "前进村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8189084,
+          28.7644811
+        ]
+      },
+      "id": "node/3127684570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129411046",
+        "alt_name": "湖坊街道社区卫生中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "湖坊医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9349732,
+          28.6664126
+        ]
+      },
+      "id": "node/3129411046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129412575",
+        "alt_name": "塘山街道社区卫生服务中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "塘山医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9439941,
+          28.7141276
+        ]
+      },
+      "id": "node/3129412575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129426744",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌市青山湖区塘山镇青山湖社区卫生服务站公共卫生楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9304852,
+          28.6835206
+        ]
+      },
+      "id": "node/3129426744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129455983",
+        "alt_name": "青山湖区南钢街道社区卫生中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南钢街道社区卫生中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9823901,
+          28.6574548
+        ]
+      },
+      "id": "node/3129455983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129465931",
+        "alt_name": "东湖区彭家桥街道北社区卫生中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "彭家桥街道北社区卫生中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9169207,
+          28.7157067
+        ]
+      },
+      "id": "node/3129465931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129465932",
+        "alt_name": "东湖区彭家桥街道社区卫生中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "彭家桥街道社区卫生中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9193682,
+          28.6869057
+        ]
+      },
+      "id": "node/3129465932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129470628",
+        "alt_name": "西湖区丁公路街道社区卫生中心",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "丁公路街道社区卫生中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9133377,
+          28.6758543
+        ]
+      },
+      "id": "node/3129470628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3159403374",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "京东镇卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9571386,
+          28.6779644
+        ]
+      },
+      "id": "node/3159403374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3637160154",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "水电医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9706508,
+          28.4312936
+        ]
+      },
+      "id": "node/3637160154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660315622",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "尤口卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0282782,
+          28.7254693
+        ]
+      },
+      "id": "node/3660315622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661148099",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "罗家中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9891064,
+          28.6331327
+        ]
+      },
+      "id": "node/3661148099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661148100",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "罗家村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9922431,
+          28.630494
+        ]
+      },
+      "id": "node/3661148100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661637250",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南矶医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3532675,
+          28.9487629
+        ]
+      },
+      "id": "node/3661637250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664022316",
+        "amenity": "hospital",
+        "name": "厚田镇西门村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7926982,
+          28.4636313
+        ]
+      },
+      "id": "node/3664022316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664028112",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "生米街道预防接种门诊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7926002,
+          28.5730163
+        ]
+      },
+      "id": "node/3664028112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664028114",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "红谷滩区生米街道卫生院",
+        "old_name": "新建县生米镇中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7932632,
+          28.5730361
+        ]
+      },
+      "id": "node/3664028114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664041271",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "厚田镇卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7926655,
+          28.4642804
+        ]
+      },
+      "id": "node/3664041271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664158308",
+        "amenity": "hospital",
+        "name": "流湖乡卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7223335,
+          28.4711256
+        ]
+      },
+      "id": "node/3664158308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3666043749",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "五星医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2534897,
+          28.7781517
+        ]
+      },
+      "id": "node/3666043749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3754612996",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌昌北国际机场医疗急救中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9082275,
+          28.8513577
+        ]
+      },
+      "id": "node/3754612996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4009233890",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "儿童医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8907644,
+          28.6908597
+        ]
+      },
+      "id": "node/4009233890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4012107190",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "绳金塔街道社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8938745,
+          28.6670292
+        ]
+      },
+      "id": "node/4012107190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4012109472",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌市第二医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9021907,
+          28.667929
+        ]
+      },
+      "id": "node/4012109472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518616080",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌县塘南中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1372434,
+          28.6604388
+        ]
+      },
+      "id": "node/4518616080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518616081",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "塘南镇卫生防疫保健站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1368572,
+          28.6581088
+        ]
+      },
+      "id": "node/4518616081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524452243",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "衙前卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4538872,
+          28.290266
+        ]
+      },
+      "id": "node/4524452243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529376100",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "长堎医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8065227,
+          28.6959203
+        ]
+      },
+      "id": "node/4529376100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529376104",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌市新建区人民医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8216965,
+          28.6830545
+        ]
+      },
+      "id": "node/4529376104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529425601",
+        "amenity": "hospital",
+        "name": "松湖医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6489509,
+          28.379295
+        ]
+      },
+      "id": "node/4529425601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529444656",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "新建区石岗镇公共卫生站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6174994,
+          28.4437209
+        ]
+      },
+      "id": "node/4529444656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529444662",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "石岗镇卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6250954,
+          28.4430157
+        ]
+      },
+      "id": "node/4529444662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529637623",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "新建区石埠乡卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6814204,
+          28.5922455
+        ]
+      },
+      "id": "node/4529637623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529658407",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "新建区乐化镇中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8646944,
+          28.8236841
+        ]
+      },
+      "id": "node/4529658407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530058219",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "樵舍镇卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9812444,
+          28.8514163
+        ]
+      },
+      "id": "node/4530058219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537022514",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌县广福镇中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9074716,
+          28.3671327
+        ]
+      },
+      "id": "node/4537022514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537032907",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "富山卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8545369,
+          28.517158
+        ]
+      },
+      "id": "node/4537032907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537044401",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "武阳中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0128918,
+          28.5228259
+        ]
+      },
+      "id": "node/4537044401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537044424",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "塔城乡卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0939596,
+          28.5078194
+        ]
+      },
+      "id": "node/4537044424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537051902",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "幽兰中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1522326,
+          28.5828094
+        ]
+      },
+      "id": "node/4537051902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537056850",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南新中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0642769,
+          28.8046924
+        ]
+      },
+      "id": "node/4537056850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537607974",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "朝农管理处社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8485783,
+          28.6323949
+        ]
+      },
+      "id": "node/4537607974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537612426",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "朝阳洲街道社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8758376,
+          28.6638659
+        ]
+      },
+      "id": "node/4537612426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537615543",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "红谷滩区红角洲社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8279736,
+          28.672557
+        ]
+      },
+      "id": "node/4537615543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558585130",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "架桥镇中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0707283,
+          28.4396714
+        ]
+      },
+      "id": "node/4558585130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558588138",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "泉岭卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0756273,
+          28.3768206
+        ]
+      },
+      "id": "node/4558588138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560017784",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "进贤县李渡中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1686932,
+          28.2342215
+        ]
+      },
+      "id": "node/4560017784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560037143",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "白圩卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2504255,
+          28.2627719
+        ]
+      },
+      "id": "node/4560037143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562948490",
+        "amenity": "hospital",
+        "name": "湾里区太平镇社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7173642,
+          28.8112976
+        ]
+      },
+      "id": "node/4562948490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563046699",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "万埠中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6499963,
+          28.8550853
+        ]
+      },
+      "id": "node/4563046699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564577431",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "安义县人民医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5453692,
+          28.8428404
+        ]
+      },
+      "id": "node/4564577431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599115591",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "江氨医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9950739,
+          28.6595106
+        ]
+      },
+      "id": "node/4599115591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599115617",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "罗家镇濡溪卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9995103,
+          28.6629892
+        ]
+      },
+      "id": "node/4599115617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4671445420",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "麻丘医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.079931,
+          28.6713015
+        ]
+      },
+      "id": "node/4671445420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673930653",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "恒湖卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0693872,
+          28.9937037
+        ]
+      },
+      "id": "node/4673930653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673938186",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "新建区联圩卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0554532,
+          28.9603586
+        ]
+      },
+      "id": "node/4673938186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673982454",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "滁槎医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.094834,
+          28.768567
+        ]
+      },
+      "id": "node/4673982454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673985786",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "尤口卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0275353,
+          28.7218119
+        ]
+      },
+      "id": "node/4673985786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673985787",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "高新昌东医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0316606,
+          28.7209604
+        ]
+      },
+      "id": "node/4673985787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673990578",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "泾口卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.164033,
+          28.6501252
+        ]
+      },
+      "id": "node/4673990578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673993270",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "渡头卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0982504,
+          28.5450705
+        ]
+      },
+      "id": "node/4673993270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4676077149",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "温圳镇中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.079306,
+          28.3420403
+        ]
+      },
+      "id": "node/4676077149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681470761",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "张公镇牛溪村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1785672,
+          28.3650363
+        ]
+      },
+      "id": "node/4681470761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681480194",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "罗溪中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1539506,
+          28.4138861
+        ]
+      },
+      "id": "node/4681480194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707702112",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "泉岭卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0736734,
+          28.3610045
+        ]
+      },
+      "id": "node/4707702112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737433788",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "长均医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7167465,
+          28.8613791
+        ]
+      },
+      "id": "node/4737433788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4752498879",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "扬子洲乡社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9107533,
+          28.7251925
+        ]
+      },
+      "id": "node/4752498879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4752504481",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "庙后村卫生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9090287,
+          28.7304799
+        ]
+      },
+      "id": "node/4752504481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753837275",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "豫章街道社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.890563,
+          28.6949457
+        ]
+      },
+      "id": "node/4753837275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753887181",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "桃花卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8668958,
+          28.6490647
+        ]
+      },
+      "id": "node/4753887181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754037322",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "公园街道社区卫生服务中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.893555,
+          28.6864594
+        ]
+      },
+      "id": "node/4754037322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754040457",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "东湖区妇幼保健院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8867182,
+          28.6821787
+        ]
+      },
+      "id": "node/4754040457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754064562",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "墩子塘社区卫生服务站"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8868736,
+          28.6908182
+        ]
+      },
+      "id": "node/4754064562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4824140438",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "凤岭医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2645703,
+          28.3764648
+        ]
+      },
+      "id": "node/4824140438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833906829",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "前坊中心卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2262106,
+          28.5286007
+        ]
+      },
+      "id": "node/4833906829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4835957811",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "三阳卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2712717,
+          28.6140728
+        ]
+      },
+      "id": "node/4835957811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837839249",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "高新区麻丘卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0780964,
+          28.6689835
+        ]
+      },
+      "id": "node/4837839249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837856463",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "昌东镇卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0078224,
+          28.682698
+        ]
+      },
+      "id": "node/4837856463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852940213",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "七里卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2681375,
+          28.4467803
+        ]
+      },
+      "id": "node/4852940213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852964871",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "捉牛岗卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3561529,
+          28.3684874
+        ]
+      },
+      "id": "node/4852964871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5085061278",
+        "amenity": "hospital",
+        "name": "罗亭卫生院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7861996,
+          28.8939906
+        ]
+      },
+      "id": "node/5085061278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5988053860",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "南昌爱尔眼科医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9110022,
+          28.6588626
+        ]
+      },
+      "id": "node/5988053860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13036773397",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南昌市第八人民医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8870853,
+          28.6830257
+        ]
+      },
+      "id": "node/13036773397"
+    }
+  ]
+}
