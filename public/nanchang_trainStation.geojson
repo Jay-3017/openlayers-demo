@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-07T22:32:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575144244",
+        "alt_name": "南昌南站",
+        "name": "南昌南",
+        "name:en": "Nanchangnan",
+        "name:zh": "南昌南",
+        "old_name": "横岗",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q11122248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9453873,
+          28.5035174
+        ]
+      },
+      "id": "node/1575144244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575144250",
+        "alt_name": "南昌站;南昌火车站;Nanchang Railway Station",
+        "loc_name": "南站",
+        "name": "南昌",
+        "name:en": "Nanchang",
+        "name:zh": "南昌",
+        "official_name": "南昌车站",
+        "operator": "中国铁路南昌局集团有限公司",
+        "platforms": "10",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1040361",
+        "wikipedia": "zh:南昌站 (江西省)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9148247,
+          28.6652855
+        ]
+      },
+      "id": "node/1575144250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575144251",
+        "alt_name": "向塘站;向塘火车站;Xiangtang Railway Station",
+        "name": "向塘",
+        "name:en": "Xiangtang",
+        "name:zh": "向塘",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q10918091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9565057,
+          28.4462457
+        ]
+      },
+      "id": "node/1575144251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2279127731",
+        "alt_name": "青云谱站",
+        "name": "青云谱",
+        "name:en": "Qingyunpu",
+        "name:zh": "青云谱",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9223128,
+          28.5991806
+        ]
+      },
+      "id": "node/2279127731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2279169019",
+        "alt_name": "向塘西站;Xiangtang West;Xiangtang West Railway Station;Xiangtangxi Railway Station",
+        "name": "向塘西",
+        "name:en": "Xiangtangxi",
+        "name:zh": "向塘西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9495892,
+          28.4017062
+        ]
+      },
+      "id": "node/2279169019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2290062618",
+        "alt_name": "新祺周站;新祺周火车站;Xinqizhou Railway Station",
+        "name": "新祺周",
+        "name:en": "Xinqizhou",
+        "name:zh": "新祺周",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.823394,
+          28.9481533
+        ]
+      },
+      "id": "node/2290062618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2341431066",
+        "alt_name": "乐化站;乐化火车站;Lehua Railway Station",
+        "name": "乐化",
+        "name:en": "Lehua",
+        "name:zh": "乐化",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8675392,
+          28.818522
+        ]
+      },
+      "id": "node/2341431066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370492050",
+        "alt_name": "南昌北站;Nanchang North;Nanchang North Railway Station;Nanchangbei Railway Station",
+        "name": "南昌北",
+        "name:en": "Nanchangbei",
+        "name:zh": "南昌北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8604297,
+          28.7439495
+        ]
+      },
+      "id": "node/2370492050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450072204",
+        "alt_name": "三江镇站;三江镇火车站;Sanjiangzhen Railway Station",
+        "name": "三江镇",
+        "name:de": "Sanjiangzhen",
+        "name:en": "Sanjiangzhen",
+        "name:zh": "三江镇",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9779302,
+          28.3111123
+        ]
+      },
+      "id": "node/2450072204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7213210230",
+        "alt_name": "南昌东站;Nanchang East;Nanchang East Railway Station;Nanchangdong Railway Station",
+        "name": "南昌东",
+        "name:en": "Nanchangdong",
+        "name:zh": "南昌东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q105044411",
+        "wikipedia": "en:Nanchang East railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0161548,
+          28.617241
+        ]
+      },
+      "id": "node/7213210230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7213210231",
+        "name": "昌北机场",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.91295,
+          28.8581962
+        ]
+      },
+      "id": "node/7213210231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11238297044",
+        "name": "进贤北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3549846,
+          28.6813864
+        ]
+      },
+      "id": "node/11238297044"
+    }
+  ]
+}
